@@ -1,6 +1,0 @@
-<<<<<<< HEAD
-blah blah blah
-=======
-Test test test
-
->>>>>>> 75c98665c632ec228379a0295fdb5a39e91bc028
